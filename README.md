@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pau1ross
-- 👀 I’m interested in ... guitars
-- 🌱 I’m currently learning ... my new role Interaction Designer at ONS 
+- 🌱 Interaction Designer at ONS 
 - 💞️ I’m looking to collaborate on ... ONS projects
 - 📫 How to reach me ... paul.ross@ons.gov.uk
 
